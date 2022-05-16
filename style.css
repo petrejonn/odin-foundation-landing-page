@@ -1,0 +1,70 @@
+body {
+    font-family: Roboto, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.bg-dark {
+    background-color: #1F2937;
+}
+
+.bg-grey {
+    background-color: #E5E7EB;
+}
+
+.content-padding {
+    padding: 50px 200px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    color: #F9FAF8;
+    padding: 8px 200px;
+}
+
+.mg-0 {
+    margin: 0;
+}
+
+.header-link-list {
+    list-style: none;
+    display: flex;
+}
+
+.header-link {
+    margin-left: 8px;
+}
+
+.hero {
+    display: flex;
+}
+
+.hero-row-item {
+    flex-direction: 1;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-1 {
+    flex: 1;
+}
+
+.border-blue {
+    border: 2px solid #3882F6;
+}
+
+.border-radius-1 {
+    border-radius: 11px;
+}
+
+.random-placeholder-box {
+    height: 100px;
+    width: 100px;
+}
+
+.call-to-action {
+    background-color: #3882F6;
+    color: white;
+    justify-content: space-between;
+}
